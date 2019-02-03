@@ -8,7 +8,7 @@
 
 ```
 Cloning the repo
-  git clone git@github.com:chlz29/React-PLAYGROUND.git
+  git@github.com:chlzslvdr/Burger-Builder-App.git
 
 Development
   npm install
